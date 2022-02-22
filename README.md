@@ -1,8 +1,11 @@
 # Cool App Launcher
 Cool App Launcher (capp-launcher) for Linux users who use window managers that don't come with application menus
 
-# Next planned feature
-Scrollbar and maybe work on design 
+# Next planned features
+* Scrollbar
+* Work on design
+* Split gui into two tabs: apps from desktop files, apps found in path
+
 
 ## How to install
 ```
